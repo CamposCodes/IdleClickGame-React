@@ -1,0 +1,28 @@
+.Cabecalho {
+    background: var(--color3);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Cabecalho>h1 {
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0px;
+    padding-block: 4px;
+    animation: changeText 5s infinite ease-in-out;
+    transition: .5s;
+    color: var(--color2);
+}
+
+@keyframes changeText {
+    0%,100%{
+        color: var(--color2);
+    }
+    50%{
+        color: var(--color3);
+    }
+    70%{
+        color: #ffff;
+    }
+}
+

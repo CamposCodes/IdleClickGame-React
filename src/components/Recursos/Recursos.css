@@ -1,0 +1,25 @@
+.Recursos {
+    display: flex;
+    justify-content: space-around;
+    padding-block: 4px;
+    background: var(--color2);
+}
+
+.Recurso {
+    margin-top: 1rem;
+    width: fit-content;
+    flex: 1 1 0px;
+}
+
+.Recurso>h1 {
+    margin: 0px;
+}
+
+.Recurso>span {
+    font-size: 32px;
+}
+
+.Recurso>p {
+    margin: 0px;
+    font-size: 24px;
+}

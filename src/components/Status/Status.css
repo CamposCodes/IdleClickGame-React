@@ -1,0 +1,21 @@
+.Status {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: var(--color3);
+    aspect-ratio: 1;
+    min-width: 20vw;
+    padding: 8px;
+    border-radius: 5rem;
+    margin-left: 1rem;
+    margin-right: .5rem;
+}
+
+.Status h1 {
+    margin: 0px;
+}
+
+.caixa-selecao {
+    font-weight: bold;
+}

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+
+:root{
+    --color1: #D8E1C7;
+    --color2: #B6CD93;
+    --color3: #6DA92C;
+    --color4: #2C5B47;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+body{
+    background: var(--color2);
+}
