@@ -1,7 +1,7 @@
 {
   "name": "game-project",
   "version": "0.0.0",
-  "homepage": "game-project/",
+  "homepage": "IdleClickGame/",
   "private": true,
   "type": "module",
   "scripts": {
