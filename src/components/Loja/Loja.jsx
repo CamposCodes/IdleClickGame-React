@@ -12,7 +12,7 @@ export default function Loja(props) {
             </div>
         </section>
     );
-}
+}   
 
 function Upgrade(props) {
     return (

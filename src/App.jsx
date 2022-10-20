@@ -3,7 +3,7 @@ import Cabecalho from './components/Cabecalho/Cabecalho.jsx';
 import Recursos from './components/Recursos/Recursos.jsx';
 import Acoes from './components/Acoes/Acoes.jsx';
 import Rodape from './components/Rodape/Rodape.jsx';
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";   
 
 export default function App() {
 

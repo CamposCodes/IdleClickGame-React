@@ -9,4 +9,4 @@ export default function Rodape(props) {
             <Status estoque={props.estoque} transacoes={props.transacoes} processos={props.processos} vendaAutomatica={props.vendaAutomatica} handleChange={props.handleChange} />
         </footer>
     );
-}
+}   

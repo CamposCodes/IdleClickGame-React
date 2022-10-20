@@ -11,7 +11,7 @@ export default function Acoes(props) {
             <Acao id="abrirComercioBtn" nome="Abrir comércio" trocas={transacoes.abrirComercio} handleClick={props.handleClick} />
         </section>
     );
-}
+}    
 
 function Acao(props) {
     const trocas = props.trocas;

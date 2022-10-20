@@ -36,7 +36,7 @@ export default function Recursos(props) {
         </section>
     );
 }
-
+   
 function Recurso(props) {
     return (
         <div className="Recurso">

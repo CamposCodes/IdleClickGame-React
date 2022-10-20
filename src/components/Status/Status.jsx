@@ -15,7 +15,7 @@ export default function Status(props) {
             <div>
                 <input type="checkbox" id="vendaAuto" name="vendaAuto" value={vendaAutomatica} onChange={props.handleChange} />
                 <label htmlFor="vendaAuto" className="caixa-selecao">Venda automática</label>
-            </div>
+            </div>   
         </section>
     );
 }
