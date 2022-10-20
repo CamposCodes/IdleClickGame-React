@@ -6,7 +6,7 @@ import Rodape from './components/Rodape/Rodape.jsx';
 import React, { useState, useEffect } from "react";   
 
 export default function App() {
-
+  
   const [estoque, setEstoque] = useState({
     madeira: 0,
     ouro: 0,

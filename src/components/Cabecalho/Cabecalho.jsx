@@ -1,8 +1,8 @@
 import './Cabecalho.css'
 
 function Cabecalho(){
-
-    return(
+  
+    return(  
         <header className="Cabecalho">
             <h1>Corte madeira</h1>
             <h1>Construa casas</h1>

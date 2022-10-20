@@ -3,7 +3,7 @@ import './Loja.css';
 export default function Loja(props) {
     const upgrades = props.upgrades;
     const processos = props.processos;
-    return (
+    return (  
         <section className="Loja">
             <h1>Loja</h1>
             <div className="lista-upgrades">

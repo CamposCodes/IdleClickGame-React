@@ -2,7 +2,7 @@ import './Acoes.css';
 
 export default function Acoes(props) {
     const transacoes = props.transacoes;
-    return (
+    return (  
         <section className="Acoes">
             <Acao id="cortarBtn" nome="Cortar madeira" trocas={transacoes.cortar} handleClick={props.handleClick} />
             <Acao id="venderBtn" nome="Vender madeira" trocas={transacoes.vender} handleClick={props.handleClick} />

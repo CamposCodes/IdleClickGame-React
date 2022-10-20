@@ -2,7 +2,7 @@
     background: var(--color3);
     display: flex;
     justify-content: space-evenly;
-}
+}  
 
 .Cabecalho>h1 {
     font-size: 20px;

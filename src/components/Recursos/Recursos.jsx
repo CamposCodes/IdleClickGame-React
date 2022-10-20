@@ -8,7 +8,7 @@ export default function Recursos(props) {
             nome="Madeira" 
             imagem="🌲" 
             valor={estoque.madeira} 
-            />
+            />  
 
             <Recurso 
             nome="Ouro" 
